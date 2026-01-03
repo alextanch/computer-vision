@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+.idea/
+data/
+temp/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info
+.ipynb_checkpoints
