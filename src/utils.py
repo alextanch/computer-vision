@@ -22,3 +22,5 @@ def download_and_extract(google_id, file, output_dir):
         print("Extracting...")
         with ZipFile(file, "r") as fp:
             fp.extractall(path=output_dir)
+
+    print("Done!")

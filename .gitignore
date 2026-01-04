@@ -1,7 +1,7 @@
 .venv/
 .vscode/
 .idea/
-data/
+sample_data/
 temp/
 __pycache__/
 *.pyc
