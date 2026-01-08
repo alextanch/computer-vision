@@ -4,6 +4,7 @@
 ```bash
   git clone https://github.com/alextanch/computer-vision
   cd computer-vision
+  git lfs install
   
   bash setup_env.sh
 ```
