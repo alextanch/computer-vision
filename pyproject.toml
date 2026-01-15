@@ -1,0 +1,22 @@
+[project]
+name = "computer-vision"
+version = "0.1.0"
+description = "Computer Vision Course"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "debugpy>=1.8.19",
+    "gdown>=5.2.0",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "livelossplot>=0.5.6",
+    "matplotlib>=3.10.8",
+    "opencv-python-headless>=4.12.0.88",
+    "rootutils>=1.0.7",
+    "seaborn>=0.13.2",
+    "torch>=2.9.1",
+    "torchinfo>=1.8.0",
+    "torchmetrics>=1.8.2",
+    "torchvision>=0.24.1",
+    "tqdm>=4.67.1",
+]
