@@ -9,4 +9,5 @@ data/
 .DS_Store
 .venv
 .vscode
+.idea
 
