@@ -10,4 +10,5 @@ data/
 .venv
 .vscode
 .idea
+uv.lock
 
